@@ -1,1 +1,5 @@
+# Ignorujemy *log*
 *log*
+# Ignorujemy foldery error*
+error*/
+error*/error*.txt
