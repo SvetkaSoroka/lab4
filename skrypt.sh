@@ -4,8 +4,8 @@ show_help() {
   cat <<EOF
 Użycie: $0 [--date] [--logs [N]] [--help]
 
-  --date       Wyświetla dzisiejszą datę w formacie YYYY-MM-DD
-  --logs [N]   Tworzy N plików log1.txt…logN.txt (по умолчанию 100)
+  --date       Wyświetla dzisiejszą datę
+  --logs [N]   Tworzy N plików log1.txt…logN.txt
   --help       Pokazuje tę pomoc
 EOF
 }
